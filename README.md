@@ -16,6 +16,7 @@
 - [CodePen: List Animation Collection](https://codepen.io/collection/DbRmJa/)
 
 ## Effects
+- [CSS Skewed Text Blocks](https://codepen.io/enbee81/pen/yLyrmyg)
 - [Image Glitch Effect](https://tympanus.net/Tutorials/CSSGlitchEffect/index.html)
 - [Layer Motion Slideshow](https://tympanus.net/Development/LayerMotionSlideshow/)
 - [Material Design Ripple Effect](https://benfrain.com/material-design-style-click-effects-with-pointer-events-and-css-custom-properties/)

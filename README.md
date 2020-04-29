@@ -16,6 +16,7 @@
 - [CodePen: List Animation Collection](https://codepen.io/collection/DbRmJa/)
 
 ## Effects
+- [Scrolling Gallery Over the Hero](https://nathansmith.design/)
 - [CSS Skewed Text Blocks](https://codepen.io/enbee81/pen/yLyrmyg)
 - [Image Glitch Effect](https://tympanus.net/Tutorials/CSSGlitchEffect/index.html)
 - [Layer Motion Slideshow](https://tympanus.net/Development/LayerMotionSlideshow/)

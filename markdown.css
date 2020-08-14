@@ -12,7 +12,7 @@ body {
   margin-left: auto;
   padding: 48px;
   word-wrap: break-word;
-  width: 600px;
+  max-width: 600px;
 }
 
 h1 {

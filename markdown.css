@@ -16,7 +16,7 @@ body {
 }
 
 code, kbd, pre, samp, tt {
-    font-family: SFMono-Regular, -apple-system-ui-monospace, 'Fira Code', Consolas,Liberation Mono,Menlo,monospace;
+    font-family: 'Fira Code', SFMono-Regular, Consolas,Liberation Mono,Menlo,monospace;
 
 }
 

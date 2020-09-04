@@ -40,7 +40,7 @@ td, th {
 table {
   margin-left: 50% !important;
   transform: translateX(-50%) !important;
-  width: 100vw !important;
+  width: 90vw !important;
 }
 
 code {

@@ -34,11 +34,11 @@ h1 code, h2 code, h3 code, h4 code {
 }
 
 td, th {
-  vertical-aligh: top;
+  vertical-aligh: top !important;
 }
 
 table {
-  margin-left: 45%;
-  transform: translateX(-45%);
-  width: 90vw;
+  margin-left: 45% !important;
+  transform: translateX(-45%) !important;
+  width: 90vw !important;
 }

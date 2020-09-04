@@ -42,3 +42,7 @@ table {
   transform: translateX(-50%) !important;
   width: 100vw !important;
 }
+
+code {
+  color: #446fbd !important;
+}

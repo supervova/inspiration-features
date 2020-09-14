@@ -25,6 +25,7 @@
 - [Wrapped Shadow](https://codepen.io/shadeed/pen/be104604ada76a7fa854bffca1d6b806)
 
 ## Long reads
+- [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 - [Evolution of Stock Photography Aesthetics](https://evolution.depositphotos.com/)
 - [NYT Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
 - [NYT Riding the New Silk Road](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)

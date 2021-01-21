@@ -16,6 +16,7 @@
 - [CodePen: List Animation Collection](https://codepen.io/collection/DbRmJa/)
 
 ## Effects
+- [Clip Path Hover](https://codepen.io/shadeed/pen/vYXbrrb)
 - [Scrolling Gallery Over the Hero](https://nathansmith.design/)
 - [Kinetic typography with Three.js](https://tympanus.net/Tutorials/codrops-kinetic-typo/)
 - [CSS Skewed Text Blocks](https://codepen.io/enbee81/pen/yLyrmyg)
@@ -25,6 +26,7 @@
 - [Wrapped Shadow](https://codepen.io/shadeed/pen/be104604ada76a7fa854bffca1d6b806)
 
 ## Long reads
+- [Reveal On Scroll](https://codepen.io/shadeed/pen/vYXbrrb)
 - [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 - [Evolution of Stock Photography Aesthetics](https://evolution.depositphotos.com/)
 - [NYT Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)

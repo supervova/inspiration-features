@@ -14,6 +14,7 @@
 - [Полноэкранное меню плитками](https://tympanus.net/Development/MultiboxMenu/)
 - [CodePen: Page Transition Collection](https://codepen.io/collection/AxdYJe/)
 - [CodePen: List Animation Collection](https://codepen.io/collection/DbRmJa/)
+- [CodePen: CSS Animated Price Table](https://codepen.io/lonekorean/pen/QWyjaeg)
 
 ## Effects
 - [Clip Path Hover](https://codepen.io/shadeed/pen/vYXbrrb)

@@ -7,6 +7,7 @@
 - [Moving Letters - Text animated with JavaScript & anime.js](http://tobiasahlin.com/moving-letters/)
 - [Decorative Letter Animations](https://tympanus.neat/codrops/2018/01/10/decorative-letter-animations/)
 - [Andrew Embury, Award–winning motion designer](http://aembury.com/)
+- [100 link :hover animations ](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
 
 ## Experimantal Interface
 - [Stacking Cards](https://codyhouse.co/demo-tutorials/stacking-cards/index.html)

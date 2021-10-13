@@ -22,6 +22,7 @@
 - [CodePen: CSS Animated Price Table](https://codepen.io/lonekorean/pen/QWyjaeg)
 
 ## Effects
+- [Parallax on hover](https://atroposjs.com/)
 - [Clip Path Hover](https://codepen.io/shadeed/pen/vYXbrrb)
 - [Scrolling Gallery Over the Hero](https://nathansmith.design/)
 - [Kinetic typography with Three.js](https://tympanus.net/Tutorials/codrops-kinetic-typo/)

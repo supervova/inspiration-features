@@ -5,6 +5,7 @@
 - (The cool CSS interface effects)[https://www.30secondsofcode.org/css/p/1]
 
 ## Animation, transitions
+- [Building split text animations](https://web.dev/building-split-text-animations/)
 - [Awwwards — transitions](https://www.awwwards.com/awwwards/collections/transitions/)
 - [Dribbble - motion](https://dribbble.com/shots?list=animated&timeframe=ever)
 - [Affter Effects Effect List - RU](https://helpx.adobe.com/ru/after-effects/using/effect-list.html)

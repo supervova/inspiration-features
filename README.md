@@ -6,6 +6,7 @@
 
 ## Animation, transitions
 - [Building split text animations](https://web.dev/building-split-text-animations/)
+- [Shapes clipping path transitions](https://www.transition.style/)
 - [Awwwards — transitions](https://www.awwwards.com/awwwards/collections/transitions/)
 - [Dribbble - motion](https://dribbble.com/shots?list=animated&timeframe=ever)
 - [Affter Effects Effect List - RU](https://helpx.adobe.com/ru/after-effects/using/effect-list.html)

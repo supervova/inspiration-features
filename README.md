@@ -34,6 +34,8 @@
 - [Layer Motion Slideshow](https://tympanus.net/Development/LayerMotionSlideshow/)
 - [Material Design Ripple Effect](https://benfrain.com/material-design-style-click-effects-with-pointer-events-and-css-custom-properties/)
 - [Wrapped Shadow](https://codepen.io/shadeed/pen/be104604ada76a7fa854bffca1d6b806)
+- [Animated confetti and sparkles effects](https://party.js.org/)
+- [Loaders and spinners collection - pure CSS](https://whirl.netlify.app/)
 
 ## Long reads
 - [Reveal On Scroll](https://codepen.io/shadeed/pen/vYXbrrb)

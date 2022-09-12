@@ -2,7 +2,7 @@
 
 ## All in One
 
-- (The cool CSS interface effects)[https://www.30secondsofcode.org/css/p/1]
+- [The cool CSS interface effects](https://www.30secondsofcode.org/css/p/1)
 
 ## Animation, transitions
 - [Building split text animations](https://web.dev/building-split-text-animations/)

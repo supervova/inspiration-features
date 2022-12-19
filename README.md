@@ -62,3 +62,7 @@
 - [What is Africtecture?](http://www.uncubemagazine.com/magazine-17-11665397.html#!/page4)
 - [The Making of Medium.com](http://www.teehanlax.com/story/medium/)
 - [Sir Peter Blake: Artist](http://www.thisisourtimebook.com/creatives/sir-peter-blake/)
+
+## Product Design and Architecture
+
+- [Подборка Карла Баренбурга](https://cmhb.de/blog/my-favourite-designers)

@@ -24,8 +24,14 @@
 - [CodePen: Page Transition Collection](https://codepen.io/collection/AxdYJe/)
 - [CodePen: List Animation Collection](https://codepen.io/collection/DbRmJa/)
 - [CodePen: CSS Animated Price Table](https://codepen.io/lonekorean/pen/QWyjaeg)
+- [CodePen: Click To Zoom Calendar](https://codepen.io/Hyperplexed/pen/qBVPaNV)
+- [CodePen: Elastic Accordion GSAP](https://codepen.io/supah/pen/rNKraQJ)
+- [CodePen: Heroes Accordion](https://codepen.io/rodleviton/pen/yLPGBZP)
+- [CodePen: Temporary Footer for Infinity Loading Content](https://codepen.io/ste-vg/pen/PoQgvBK)
+- [CodePen: https://codepen.io/creativeocean/pen/gOvYEgq](https://codepen.io/creativeocean/pen/gOvYEgq)
 
 ## Effects
+- [CodePen: Simple but Power - Translate on Hover](https://codepen.io/Hyperplexed/pen/vYpXNJd)
 - [Background Shift Animation with CSS Blend Modes](https://tympanus.net/codrops/2022/01/26/background-shift-animation-with-css-blend-modes/)
 - [Clip Path Hover](https://codepen.io/shadeed/pen/vYXbrrb)
 - [Parallax on hover](https://atroposjs.com/)
@@ -38,6 +44,12 @@
 - [Wrapped Shadow](https://codepen.io/shadeed/pen/be104604ada76a7fa854bffca1d6b806)
 - [Animated confetti and sparkles effects](https://party.js.org/)
 - [Loaders and spinners collection - pure CSS](https://whirl.netlify.app/)
+- [CodePen: Invert text on scroll with CSS variable](https://codepen.io/PointC/pen/ZErvbPR)
+- [CodePen: Cascading CSS Text Effects](https://codepen.io/jh3y/pen/gOeGmRN)
+- [CodePen: Easy parallax effect with background-attachment: fixed](https://codepen.io/DuskoStamenic/pen/ZEvBKdw)
+- [CodePen: Glow CTA Button](https://codepen.io/aaroniker/pen/XWYpyNM)
+- [CodePen: CSS Marquee Logo Wall](https://codepen.io/hexagoncircle/pen/wvmjomb)
+
 
 ## Long reads
 - [Reveal On Scroll](https://codepen.io/shadeed/pen/vYXbrrb)

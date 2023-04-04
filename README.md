@@ -19,6 +19,7 @@
 
 - [Apple](https://www.apple.com/iphone-14-pro/)
 - [Swag](https://swagapp.com/)
+- [Stryds](https://www.stryds.com/)
 
 ## Experimantal Interface
 - [24 CSS Flip Cards](https://freefrontend.com/css-flip-cards/)

@@ -15,6 +15,11 @@
 - [Andrew Embury, Award–winning motion designer](http://aembury.com/)
 - [100 link :hover animations ](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
 
+### Best Animated Websites
+
+- [Apple](https://www.apple.com/iphone-14-pro/)
+- [Swag](https://swagapp.com/)
+
 ## Experimantal Interface
 - [24 CSS Flip Cards](https://freefrontend.com/css-flip-cards/)
 - [3D rotating menu](https://web.dev/building-a-3d-game-menu-component/)

@@ -37,6 +37,7 @@
 - [Parallax on hover](https://atroposjs.com/)
 - [Scrolling Gallery Over the Hero](https://nathansmith.design/)
 - [Kinetic typography with Three.js](https://tympanus.net/Tutorials/codrops-kinetic-typo/)
+- [Sticky Page Header Shadow on Scroll](https://ryanmulligan.dev/blog/sticky-header-scroll-shadow/)
 - [CSS Skewed Text Blocks](https://codepen.io/enbee81/pen/yLyrmyg)
 - [Image Glitch Effect](https://tympanus.net/Tutorials/CSSGlitchEffect/index.html)
 - [Layer Motion Slideshow](https://tympanus.net/Development/LayerMotionSlideshow/)

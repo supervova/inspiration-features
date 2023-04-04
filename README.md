@@ -18,6 +18,7 @@
 ### Best Animated Websites
 
 - [Apple](https://www.apple.com/iphone-14-pro/)
+- [Godly #scrolling-animation](https://godly.website/websites/scrolling-animation)
 - [Swag](https://swagapp.com/)
 - [Stryds](https://www.stryds.com/)
 

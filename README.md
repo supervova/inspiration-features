@@ -83,6 +83,10 @@
 - [The Making of Medium.com](http://www.teehanlax.com/story/medium/)
 - [Sir Peter Blake: Artist](http://www.thisisourtimebook.com/creatives/sir-peter-blake/)
 
+## Portfolios & Studios
+
+- [Abdul Wahid Ovaice, art director at Apple](https://www.ovaice.com/)
+
 ## Product Design and Architecture
 
 - [Подборка Карла Баренбурга](https://cmhb.de/blog/my-favourite-designers)
